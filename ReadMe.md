@@ -1,3 +1,6 @@
+# Bus Scheduling Optimization
+## Decision Analytics
+### Annie Xie, Marisa Yang, Yuxuan Liu
 This project is to provide an optimization plan for Pittsburgh Regional Transit. We want to maximize the efficiency with additional focus on equitable access to public transportation. Utilizing datasets from the Western Pennsylvania Regional Data Center and the American Community Survey, we focus on evaluating bus stop usage, scheduled trip counts, and demographic data such as poverty and minority rates within Allegheny County at a census-tract level.
 <img width="886" alt="Screen Shot 2024-03-11 at 2 26 17 PM" src="https://github.com/fuman-annie-xie/PRT_bus_scheduling/assets/114703755/559556dd-70c5-451c-8637-104e06f527c2">
 
